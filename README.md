@@ -22,12 +22,6 @@ You can install the required packages using the following command:
 ```bash
 pip install tensorflow keras numpy pillow
 
-## Requirements
-
-- TensorFlow
-- Keras
-- NumPy
-- Pillow
 
 You can install the required packages using the following command:
 ```bash
